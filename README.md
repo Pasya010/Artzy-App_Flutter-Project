@@ -1,5 +1,5 @@
 # Artzy
-
+![Image](https://github.com/user-attachments/assets/30ea21ca-395c-4aa2-af73-b43c81fd1c39)
 ## 📱 Fitur Utama
 1. **Swiper dengan Layout Stack**:
    - Jelajahi koleksi karya seni Anda melalui tampilan swiper yang atraktif.
