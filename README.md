@@ -1,16 +1,35 @@
-# arty_app
+# Artzy
 
-A new Flutter project.
+## 📱 Fitur Utama
+1. **Swiper dengan Layout Stack**:
+   - Jelajahi koleksi karya seni Anda melalui tampilan swiper yang atraktif.
+   - Fitur swipe hanya aktif jika terdapat lebih dari satu item di koleksi.
 
-## Getting Started
+2. **3D Tilt dengan Gyroscope**:
+   - Nikmati efek visual 3D saat perangkat Anda dimiringkan.
+   - Menambahkan dimensi baru pada pengalaman melihat gambar.
 
-This project is a starting point for a Flutter application.
+3. **Manajemen Koleksi Artlist**:
+   - Tambahkan karya seni ke koleksi pribadi Anda langsung dari detail layar.
+   - Hapus karya seni dengan mudah melalui tombol "Remove" pada layar profile.
 
-A few resources to get you started if this is your first Flutter project:
+4. **Desain Interaktif dan Minimalis**:
+   - Tampilan yang bersih dan ramah pengguna.
+   - Fokus pada karya seni dengan dekorasi minimal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Teknologi yang Digunakan
+- **Flutter**: Framework utama untuk pengembangan aplikasi.
+- **BLoC (Business Logic Component)**: Mengelola state aplikasi untuk fitur Artlist.
+- **Sensors Plus**: Mengintegrasikan data dari gyroscope untuk efek 3D tilt.
+- **Flutter Swiper View**: Menyediakan navigasi swipe yang mulus.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌟 Cara Kerja
+- Gunakan gyroscope perangkat untuk mengontrol efek rotasi 3D gambar di layar detail.
+- Tambahkan gambar favorit ke Artlist melalui tombol **Add to Artlist**.
+- Swipe koleksi Artlist Anda di layar profile. Jika hanya ada satu gambar, swipe akan dinonaktifkan secara otomatis.
+
+## 🤔 Apa yang Membuat Artzy Unik?
+- Menggabungkan fitur visual interaktif (3D tilt) dengan manajemen koleksi seni yang sederhana.
+- Didesain untuk memberikan pengalaman pengguna yang imersif, kreatif, dan menyenangkan.
+
+---
